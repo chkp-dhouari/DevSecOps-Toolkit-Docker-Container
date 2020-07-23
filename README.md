@@ -1,5 +1,5 @@
 # DevSecOps-Toolkit-Docker-Container
-## Docker container to use with CICD pipelines without the need to install all the bins and dependencies.
+## Docker container to use with CICD pipelines without the need to install all the bins and dependencies for SAST, IaC and AWS cli.
 
 ### It comprises the following:
 
